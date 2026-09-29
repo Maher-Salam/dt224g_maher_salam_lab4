@@ -9,4 +9,4 @@
 
 console.log(firstName +" "+ lastName);
 console.log(age);
-console.log("Student: " + Student);
+console.log("Student: " + Student); 
