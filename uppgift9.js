@@ -1,5 +1,7 @@
 "use strict";
 
+/*deklarerar en array men tre objekt 
+som innehåller en persons namn, åler och tid det tar för personen att springa 100meter*/
 const people = [
 
     {
@@ -20,7 +22,10 @@ const people = [
    }
 ];
 
+//loop som går igenom arrayen
 people.forEach(person => {
+    /*if sats som kontrollerar om personen är snabbare, lika snabb eller inte snabbare 
+    än usain bolt och skriver ut lämplig utskrift*/
     if (person.sprint100 < 9.58) {
     console.log(person.name + " är " + person.age +" år och springer 100 meter på " 
                 + person.sprint100 + "s och är snabbare än Usain Bolt");

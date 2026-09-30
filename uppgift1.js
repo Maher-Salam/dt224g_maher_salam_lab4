@@ -1,12 +1,12 @@
-"use strict";
+"use strict"; //aktiverar strict mode
 
-
+// Deklarerar variablerr
     let firstName = "Malin";
     let lastName = "Larsson";
     let age = 30;
     let Student = false;
 
-
+//skriver ut resultat i konsolen
 console.log(firstName +" "+ lastName);
 console.log(age);
 console.log("Student: " + Student); 
