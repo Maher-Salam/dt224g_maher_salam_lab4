@@ -1,5 +1,7 @@
 "use strict";
 
+//funktion som skriver ut information om en bok
+
 //deklarerar ett objekt som innehåller information om en bok
 let bok = {
     titel: "The Alchemist",

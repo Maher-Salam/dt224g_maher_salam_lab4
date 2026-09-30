@@ -1,7 +1,7 @@
 "use strict";
 
 
-//funktion som räknar ut area på triangel
+//funktion som räknar ut area på triangel och returnerar resultatet
 function calutlateArea(b, h) {
 
     return (b * h)/2 ;

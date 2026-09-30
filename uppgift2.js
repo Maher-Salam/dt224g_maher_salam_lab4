@@ -1,5 +1,7 @@
 "use strict";
 
+//beräknar total pris och moms med matematiska operatorer och variabler
+
 //deklarerar variabler
 let pris = 100;
 let antal = 3;

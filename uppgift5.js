@@ -1,5 +1,7 @@
 "use strict";
 
+//skapar en array med maträtter och modifierar den med push och shift
+
 //deklaration av myArray
 let myArray = ["Pizza", "Hamburgare", "Tacos", "Sushi", "Tacopaj"];
 

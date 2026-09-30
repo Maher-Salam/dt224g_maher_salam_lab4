@@ -1,9 +1,11 @@
 "use strict";
 
+//funktion som loopar igenom en array och räknar ut summan av element i arrayen 
 
+//tilldelat tal i en array
 let arr = [4, 12 ,17, 20, -1, 6];
 
-//function som räknar ut summan av element i arrayen arr
+//funktionen som returnerar summman av talen i en array
 function calcArray(arr) {
     let sum = 0;
 

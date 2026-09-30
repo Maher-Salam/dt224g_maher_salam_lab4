@@ -1,6 +1,8 @@
 "use strict"; //aktiverar strict mode
 
-// Deklarerar variablerr
+//skapar variabler för personinfo med olika datatyper och skriver ut dem
+
+// Deklarerar variabler
     let firstName = "Malin";
     let lastName = "Larsson";
     let age = 30;

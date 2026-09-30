@@ -1,6 +1,8 @@
 "use strict";
 
-/*deklarerar en array men tre objekt 
+//funktion som kontrolllerar ifall en person är snabbare än Usain Bolt
+
+/*deklarerar en array med tre objekt 
 som innehåller en persons namn, åler och tid det tar för personen att springa 100meter*/
 const people = [
 

@@ -1,5 +1,7 @@
 "use strict";
 
+//skriver ut ett meddelande beroende på åldern
+
 //deklarerar variabel
 let age = 3 ;
 
