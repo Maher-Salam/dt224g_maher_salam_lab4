@@ -1,7 +1,7 @@
 //lösning till uppgift 9. Av Maher Salam, 2026
 "use strict";
 
-//funktion som kontrolllerar ifall en person är snabbare än Usain Bolt
+//funktion som kontrollerar ifall en person är snabbare än Usain Bolt
 
 /*deklarerar en array med tre objekt 
 som innehåller en persons namn, åler och tid det tar för personen att springa 100meter*/

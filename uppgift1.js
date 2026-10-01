@@ -11,5 +11,5 @@
 
 //skriver ut resultat i konsolen
 console.log(firstName +" "+ lastName);
-console.log("Ålder: "age);
+console.log("Ålder: " + age);
 console.log("Student: " + student); 
