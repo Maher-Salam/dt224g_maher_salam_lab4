@@ -7,7 +7,7 @@
 let arr = [4, 12 ,17, 20, -1, 6];
 
 //funktionen som returnerar summman av talen i en array
-function calcArray(arr) {
+function calcArraySum(arr) {
     let sum = 0;
 
     arr.forEach(num => { 
@@ -16,7 +16,7 @@ function calcArray(arr) {
     return sum;
 }
 //utskrift på summan av elementen i arrayen arr
-console.log("Summan är: " + calcArray(arr));
+console.log("Summan är: " + calcArraySum(arr));
 //loop som skriver ut varje element 
 arr.forEach( num => { 
     console.log(num);
