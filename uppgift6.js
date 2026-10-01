@@ -2,11 +2,13 @@
 "use strict";
 
 
-//funktion som räknar ut area på triangel och returnerar resultatet
-function calutlateArea(b, h) {
+//funktion som räknar ut area på rektangel och returnerar resultatet
+function calculateArea(b, h) {
 
-    return (b * h)/2 ;
+    return b * h ;
 }
 
 //utskrift på funktion med valfria b och h
-console.log(calutlateArea(6, 3));
+console.log(calculateArea(6, 3));
+console.log(calculateArea(10, 2));
+console.log(calculateArea(2, 7));
