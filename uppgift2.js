@@ -1,8 +1,9 @@
+//lösning till uppgift 2. Av Maher Salam, 2026
 "use strict";
 
 //beräknar total pris och moms med matematiska operatorer och variabler
 
-//deklarerar variabler
+//deklarerar pris för produkt och antal produkter
 let pris = 100;
 let antal = 3;
 
