@@ -11,11 +11,11 @@ let bok = {
 };
 
 //funktion som skriver ut titel, författare och utgivningsår 
-function minBok(arrBok){
-    console.log("Titel: " + arrBok.titel);
-    console.log("Författare: " + arrBok.författare);
-    console.log("Publicerad: " + arrBok.utgivningsår);
+function printBok(objBok){
+    console.log("Titel: " + objBok.titel);
+    console.log("Författare: " + objBok.författare);
+    console.log("Publicerad: " + objBok.utgivningsår);
 };
 
-//kallar till funktionen minBok
-minBok(bok);
+//anropar funktionen printBok
+printBok(bok);
