@@ -1,19 +1,22 @@
+//lösning till uppgift 5. Av Maher Salam, 2026
 "use strict";
 
-//deklaration av myArray
-let myArray = ["Pizza", "Hamburgare", "Tacos", "Sushi", "Tacopaj"];
+//skapar en array med maträtter och modifierar den med push och shift
+
+//deklaration av maträtter i en array
+let dishes = ["Pizza", "Hamburgare", "Tacos", "Sushi", "Tacopaj"];
 
 //utskrift på alla element i arrayen
-console.log(myArray);
+console.log(dishes);
 
 //utskrift på första element
-console.log(myArray[0]);
+console.log(dishes[0]);
 
 //utskrift på sista element
-console.log(myArray[myArray.length - 1]);
+console.log(dishes[dishes.length - 1]);
 
 /*lägger till element i slutet, tar bort första elementet
- och skriver ut de förändrade arrayen*/
-myArray.push("LavaCake");
-myArray.shift();
-console.log(myArray);
+ och skriver ut den förändrade arrayen*/
+dishes.push("LavaCake");
+dishes.shift();
+console.log(dishes);
