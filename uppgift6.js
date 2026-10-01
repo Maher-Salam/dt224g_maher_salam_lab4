@@ -1,3 +1,4 @@
+//lösning till uppgift 6. Av Maher Salam, 2026
 "use strict";
 
 

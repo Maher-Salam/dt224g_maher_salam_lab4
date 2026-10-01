@@ -1,3 +1,4 @@
+//lösning till uppgift 8. Av Maher Salam, 2026
 "use strict";
 
 //funktion som skriver ut information om en bok

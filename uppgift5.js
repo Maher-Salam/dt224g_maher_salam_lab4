@@ -1,3 +1,4 @@
+//lösning till uppgift 5. Av Maher Salam, 2026
 "use strict";
 
 //skapar en array med maträtter och modifierar den med push och shift

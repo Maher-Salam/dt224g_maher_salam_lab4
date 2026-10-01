@@ -1,3 +1,4 @@
+//lösning till uppgift 9. Av Maher Salam, 2026
 "use strict";
 
 //funktion som kontrolllerar ifall en person är snabbare än Usain Bolt

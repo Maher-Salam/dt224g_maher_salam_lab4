@@ -1,3 +1,4 @@
+//lösning till uppgift 7. Av Maher Salam, 2026
 "use strict";
 
 //funktion som loopar igenom en array och räknar ut summan av element i arrayen 

@@ -1,3 +1,4 @@
+//lösning till uppgift 3. Av Maher Salam, 2026
 "use strict";
 
 //skriver ut ett meddelande beroende på åldern
